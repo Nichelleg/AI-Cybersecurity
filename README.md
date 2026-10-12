@@ -1,4 +1,4 @@
-# AI in Cybersecurity | Spring 2026
+# AI in Cybersecurity 
 
 **Nichelle Graf**  
 Bachelor of Applied Technology — Applied AI & Robotics  
